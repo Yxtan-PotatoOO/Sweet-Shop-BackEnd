@@ -1,0 +1,13 @@
+﻿#content{background-color: #F0F0F0}
+#breadcrumb{padding: 2px 0px 2px 15px; background-color: #FFFFFF; height: 20px;}
+
+#displaybox{padding: 15px 30px 30px 25px; margin:20px 40px 30px 40px; background-color: #FFFFFF; height:81%; float:left; width: 90%;border-radius:8px;}
+
+div.showbox1{padding:5px 25px 10px 25px;}
+div.showbox2{padding:10px 10px 0px 10px; position: absolute; top: 8%; left: 50%; width:88%;}
+
+div.buttonbox{position: absolute; bottom: 8%; width:88%;}
+div.buttonbox div{padding:20px; float:right;}
+#hr{border-style: dotted;}
+
+.FinishButton{border-radius:2px; width: 70px;}

@@ -1,0 +1,20 @@
+﻿#content{background-color: #F0F0F0}
+#breadcrumb{padding: 2px 0px 2px 15px; background-color: #FFFFFF; height: 20px;}
+
+#querybox{padding: 15px 30px 15px 25px; margin:20px 40px 20px 40px; background-color: #FFFFFF; height: 30px; float:left; width: 90%;border-radius:8px;}
+div.querycondition{float:left; margin:0 25px 0 0;}
+#querybuttonbox{float:right;}
+
+#displaybox{padding: 20px; margin: 110px 40px 30px 40px; height: 68%; width: 91%; background-color: #FFFFFF; border-radius:8px;}
+
+table.table{border: 1px solid #e6e6e6; width:100%; color:#666;}
+table.table tr{text-align: center;}
+table.table tr td{border: 1px solid #e6e6e6; width:16%;}
+
+.DelButton{width: 40px; height: 25px;border:0;cursor:pointer}
+.DetailButton{width: 40px; height: 25px;border:0;cursor:pointer}
+
+#pagingbox{position: absolute; bottom: 55px; left: 80px;}
+div.pagingtab{margin:0 auto; margin-top:60px;border:1px solid #fff;font-size:16px;}
+div.pagingtab div{padding: 3px; border: 1px solid #666; width:60px; float:left; margin:5px; text-align:center; border-radius:3px;}
+.color{color:#000;}

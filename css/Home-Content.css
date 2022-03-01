@@ -1,0 +1,19 @@
+﻿#content{background-color: #F0F0F0;}
+#countbox{padding: 20px 20px 20px 30px; margin:10px 40px 0px 40px; height: 60px;}
+#count1{padding: 20px; background-color: #FFFFFF; height: 50px; float:left; margin:0 60px 0 0; width: 300px;border-radius:8px;}
+#count2{padding: 20px; background-color: #FFFFFF; height: 50px; float:left; margin:0 60px 0 0; width: 300px;border-radius:8px;}
+#count3{padding: 20px; background-color: #FFFFFF; height: 50px; float:left; width: 300px;border-radius:8px;}
+div.iconbox{float:left; margin:10px 30px 0 20px; width: 40px; height:40px;}
+#icon1{font-size: 35px; color: #FF5050;}
+#icon2{font-size: 35px; color: #008000;}
+#icon3{font-size: 35px; color: #FF9900;}
+div.num{padding: 3px;float:left; margin:10px 0;width: 80px;font-family: 'Malgun Gothic'; font-size: x-large; color: #FF3300; text-align: center;}
+div.text{padding: 10px; float:right; margin:10px 20px 0 0; width: 80px;font-size: medium;}
+
+#statisticbox{padding: 0px 30px 0px 30px; margin:30px 40px 0px 40px;height: 60%;}
+#statistic1{background-color: #FFFFFF; float:left; margin:0 60px 0 0; width: 96%; height: 55%; border-radius:8px;}
+#statistic2{margin: 30px 0px 0px 0px; background-color: #FFFFFF; float:left; width: 96%; height: 60%; border-radius:8px;}
+#container1{height: 100%;}
+#container2{height: 100%;}
+div.statitle{padding: 10px 10px 0px 10px}
+

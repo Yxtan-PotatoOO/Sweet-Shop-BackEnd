@@ -1,0 +1,26 @@
+﻿#content{background-color: #F0F0F0}
+#breadcrumb{padding: 2px 0px 2px 15px; background-color: #FFFFFF; height: 20px;}
+
+#displaybox{padding: 15px 30px 30px 25px; margin:20px 40px 30px 40px; background-color: #FFFFFF; height: 81%; float:left; width: 90%;border-radius:8px;}
+
+div.showbox{padding:10px 20px 20px 20px;}
+div.showbox div{padding:5px 10px 0px 10px;}
+#radio1{padding:0px 10px 0px 10px;margin:0px;}
+#radio2{padding:0px 10px 0px 10px;margin:0px;}
+
+#uploadbox{padding:10px 10px 0px 10px; position: absolute; top: 8%; left: 50%; width:88% }
+
+div.buttonbox{position: absolute; bottom: 50px; width:88%;}
+div.buttonbox div{padding:20px;}
+#hr{border-style: dotted;}
+
+div.clickbox{padding:0px 10px 0px 10px;}
+div.titlebox{margin-left: 60px; margin-bottom: 0px;}
+#Div1{display: none;}
+#Div2{display: none;}
+#Div3{display: none;}
+
+.insidebox{padding: 5px 5px 5px 10px; border: thin groove; margin-left: 70px; width: 60%;}
+
+.SaveButton{border-radius:2px; width: 86px;}
+.CancelButton{background-color: #CCCCCC; border-radius:2px; width: 50px;}

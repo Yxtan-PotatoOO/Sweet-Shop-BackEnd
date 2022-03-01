@@ -1,0 +1,5 @@
+﻿body{overflow:hidden;}
+#left{background-color: #013C5A;}
+#logo{position:absolute;left:0;top:0;width:200px;height:100%;line-height:60px;text-align:center;color:#FFF;font-size:20px;}
+#top{position:absolute;right:0;top:0;}
+#checked{background-color: #009688;}

@@ -1,0 +1,20 @@
+﻿#content{background-color: #F0F0F0}
+#breadcrumb{padding: 2px 0px 2px 15px; background-color: #FFFFFF; height: 20px;}
+
+#displaybox{padding: 10px 30px 30px 25px; margin:20px 40px 30px 40px; background-color: #FFFFFF; height: 82%; float:left; width: 90%;border-radius:8px;}
+#statusbar{border: thin solid #FFBFBF; padding: 15px 30px 15px 25px; margin: 15px 20px 0 5px; background-color: #FFEAEA; height: 70px; float:left; width: 95%; border-radius:8px;}
+#detailbox{padding: 5px; margin: 0px 20px 20px 5px; height: 320px; float:left; width: 99%; border-radius:8px;}
+
+#oinfobox{border: thin solid #E2EAF8; padding: 15px 30px 15px 25px; margin: 0px 20px 20px 5px; height: 290px; float:left; width: 94%; border-radius:8px;}
+#adinfobox{border: thin solid #E2EAF8; padding: 15px 30px 15px 25px; margin: 0px 20px 20px 5px; height: 290px; float:left; width: 94%; border-radius:8px;}
+
+table.table{border: 1px solid #e6e6e6; width:100%; color:#666;}
+table.table tr{text-align: center;}
+table.table tr td{border: 1px solid #e6e6e6; width:15%;}
+
+#td1{border: 1px solid #e6e6e6; width:30%;}
+#td2{border: 1px solid #e6e6e6; width:20%;}
+#td3{border: 1px solid #e6e6e6; width:20%;}
+#td4{border: 1px solid #e6e6e6; width:20%; color: #FF0000;}
+
+.BackButton{background-color: #CCCCCC; border-radius:2px; width: 86px; position: absolute; bottom: 7%; left: 87%;}

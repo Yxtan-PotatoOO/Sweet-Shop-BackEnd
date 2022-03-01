@@ -1,0 +1,13 @@
+﻿#content{background-color: #F0F0F0}
+#breadcrumb{padding: 2px 0px 2px 15px; background-color: #FFFFFF; height: 20px;}
+
+#displaybox{padding: 10px 30px 30px 25px; margin:20px 40px 30px 40px; background-color: #FFFFFF; height: 82%; float:left; width: 90%;border-radius:8px;}
+
+div.showbox{padding:20px;}
+div.showbox div{padding:5px;}
+
+div.buttonbox{position: absolute; bottom: 60px; left:75%; width:88%}
+div.buttonbox div{padding:5px 10px 5px 10px;}
+
+.ModifyButton{border-radius:2px; width: 86px;}
+.BackButton{border-radius:2px; width: 50px;}

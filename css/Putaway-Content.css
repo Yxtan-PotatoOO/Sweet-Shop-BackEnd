@@ -1,0 +1,22 @@
+﻿#content{background-color: #F0F0F0}
+#breadcrumb{padding: 2px 0px 2px 15px; background-color: #FFFFFF; height: 20px;}
+
+#displaybox{padding: 15px 30px 30px 25px; margin:20px 40px 30px 40px; background-color: #FFFFFF; height: 81%; float:left; width: 90%;border-radius:8px;}
+
+div.showbox1{padding:10px;}
+div.showbox1 div{padding:6px 6px 0px 10px;}
+
+div.showbox2{padding:10px;}
+#otherbox1{padding:5px 15px 5px 15px;}
+
+div.showbox3{padding:10px;}
+#otherbox2{padding:5px 15px 15px 15px; height: 120px;}
+#timebox{margin-top: 10px;}
+
+#hr{position: absolute; bottom: 90px; width:88%;}
+
+.buttonbox{position: absolute; bottom: 50px; left:75%; width:88%;}
+.buttonbox div{padding:5px 10px 5px 10px;}
+
+.NextButton{border-radius:2px; width: 106px;}
+.CancelButton{background-color: #CCCCCC; border-radius:2px; width: 86px;}

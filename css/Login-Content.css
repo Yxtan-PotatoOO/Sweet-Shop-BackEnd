@@ -1,0 +1,21 @@
+﻿body {overflow:hidden;}
+#namebox{position: absolute; left:10%; top:4%;}
+#nameLabel{font-size: xx-large; color: #008000;}
+
+div.indexbox{position: absolute; left:90%; top:4%;}
+div.indexbox a{font-size: large; color: #FF6804;}
+
+#background{background-color: #3EBB7C; position: absolute; width: 100%; height: 65%;top:16%}
+
+#loginbox{width: 340px; height: 321px; position: absolute; top: 26%; left: 65%;border-radius:10px; background-color: #FFFFFF;filter:alpha(Opacity=85);-moz-opacity:0.85;opacity: 0.85;}
+#box{padding: 55px; float: left; width: 230px; height: 215px;}
+.LoginText{border-style: none; width: 80%;}
+#pwdbox{margin-top: 40px;}
+.PwdText{border-style: none; width: 80%;}
+#hr{border:0;height:2px;}
+#loginbar{margin-top: 60px;}
+.LoginButton{width: 230px;}
+
+#footer{padding: 3px; background-color: #2D885A; position: absolute; width: 100%; height: 3%; top:80%; text-align: center;}
+
+#showimages{position: absolute; top:26%; left:8%;}
